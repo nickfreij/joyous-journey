@@ -1,3 +1,0 @@
-export OPENAI_API_KEY=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
-
-expires oct???
